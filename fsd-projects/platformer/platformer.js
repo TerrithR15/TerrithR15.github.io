@@ -34,11 +34,11 @@ $(function () {
 createPlatform(1005, 200, 50, 50, "red");
 createPlatform(175, 650, 30, 20, "black");
 createPlatform(350, 510, 50, 50, "blue");
-createPlatform(600, 370, 50, 50, "pink");
-createPlatform(800, 250, 50, 50, "orange");
+createPlatform(550, 390, 50, 50, "pink");
+createPlatform(750, 300, 50, 50, "green");
 createPlatform(300, 600, 30, 30, "orange");
     // TODO 3 - Create Collectables
-createCollectable("steve", 350, 500);
+createCollectable("diamond", 350, 450);
 createCollectable("steve", 1005, 150);
 createCollectable("steve", 800, 210);
     
